@@ -66,6 +66,10 @@ a.top{
   color: #c5c5c5;
 }
 
+.center{
+  text-align: center;
+}
+
 .container{
   overflow: hidden;
   position: relative;
